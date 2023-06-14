@@ -1,15 +1,59 @@
-### Привет всем 👋
-<!--
-**SOK08/SOK08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Привет+👋!;Меня+зовут+Александр...;Приятно+познакомиться!;&center=true&size=30">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+### :man_technologist: Коротко обо мне:
+  
+
+<img align="right" alt="GIF" src="https://github.com/K1rsN7/K1rsN7/blob/main/DS.gif" width="360px"/>
+
+### 📃 Немного поподробнее:
+
+- 👨‍🎓 &nbsp; Учусь в колледже на специальности программиста.
+- 🎟️ &nbsp; Активно участвую в IT мероприятиях.
+- 🏋️‍♂️ &nbsp; Активно занимаюсь спортом.
+- 👨‍🏫 &nbsp; Делюсь своими знаниями.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+### 🤝 Социальные сети:
+
+<div id="badges">
+    <a href="https://t.me/SOKUR08" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" /> 
+    </a>
+    <a href="https://vk.com/ssokurov0" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK"/>  
+    </a>
+  </div
+  
+  <br>
+  
+  ---
+  
+  ### 💻 Языки и инструменты:
+  
+<a href="https://www.python.org/" target="_blank"> <img align="left" alt="Python" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
+  
+<a href="https://www.java.com/en/" target="_blank"> <img align="left" alt="Java" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
+
+<a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="MySQL" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
+
+<a href="https://www.postgresql.org/" target="_blank"> <img align="left" alt="PostgreSQL" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
+  
+<a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="MongoDB" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
+
+<a href="https://pandas.pydata.org/" target="_blank"> <img align="left" alt="pandas" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /></a>  
+  
+  <br>
+  <br>
