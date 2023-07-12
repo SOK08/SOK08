@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Привет+👋!;Меня+зовут+Александр...;Приятно+познакомиться!;&center=true&size=30">
 
-<p1 align="center">I'm <a href="https://github.com/SOK08" target="_blank">Alexander</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></p1>
-<p3 align="center">Computer science student from Russia </p3>
 </p>
 
 
@@ -15,9 +12,6 @@
   
 <p align="left"><img align="right" alt="GIF" src="./Image/ai.gif" width=35% height=45%/></p>
 
-
-
-### 📃 Немного поподробнее:
 - 👨‍🎓 &nbsp; Учусь в колледже на специальности программиста.
 - 🎟️ &nbsp; Активно участвую в IT мероприятиях.
 - 🏋️‍♂️ &nbsp; Активно занимаюсь спортом.
