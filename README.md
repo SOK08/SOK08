@@ -1,23 +1,26 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Привет+👋!;Меня+зовут+Александр...;Приятно+познакомиться!;&center=true&size=30">
+
+<p1 align="center">I'm <a href="https://daniilshat.ru/" target="_blank">Alex</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></p1>
+<p3 align="center">Computer science student from Russia </p3>
 </p>
+
 
 ---
 
-<div align="center">
+<div align="left">
   
 ### :man_technologist: Коротко обо мне:
   
+<p align="left"><img align="right" alt="GIF" src="./Image/ai.gif" width=35% height=45%/></p>
 
-<img align="right" alt="GIF" src="https://github.com/K1rsN7/K1rsN7/blob/main/DS.gif" width="360px"/>
+
 
 ### 📃 Немного поподробнее:
-
 - 👨‍🎓 &nbsp; Учусь в колледже на специальности программиста.
 - 🎟️ &nbsp; Активно участвую в IT мероприятиях.
 - 🏋️‍♂️ &nbsp; Активно занимаюсь спортом.
-- 👨‍🏫 &nbsp; Делюсь своими знаниями.
-
 <br>
 <br>
 <br>
